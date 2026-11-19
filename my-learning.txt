@@ -1,0 +1,11 @@
+Hello GitHub!
+
+This is my second practical project.
+
+I am learning how to:
+1. Create repositories.
+2. Upload files.
+3. Edit files.
+4. Understand GitHub.
+
+My journey starts here!
